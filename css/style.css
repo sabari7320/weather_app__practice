@@ -1,6 +1,7 @@
 body {
-  float: left;
+  float: right;
   flex: 1;
   background-color: aqua;
   border: 0cap;
+  nav-down: auto;
 }
